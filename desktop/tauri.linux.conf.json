@@ -1,0 +1,29 @@
+{
+  "productName": "app.hash.browser",
+  "app": {
+    "enableGTKAppId": true,
+    "windows": [
+      {
+        "label": "main",
+        "create": false,
+        "title": "H.A.S.H",
+        "width": 1200,
+        "height": 800,
+        "minWidth": 680,
+        "minHeight": 480,
+        "decorations": false,
+        "transparent": true
+      }
+    ]
+  },
+  "bundle": {
+    "linux": {
+      "deb": {
+        "desktopTemplate": "linux/hash.desktop.hbs"
+      },
+      "rpm": {
+        "desktopTemplate": "linux/hash.desktop.hbs"
+      }
+    }
+  }
+}

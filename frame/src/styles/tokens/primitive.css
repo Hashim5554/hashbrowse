@@ -1,0 +1,48 @@
+/* Raw material. Components never read these; semantic tokens do.
+   The scale is a cool blue-grey all the way down, so every rung of the
+   ladder sits on the same holographic ground: the lights lean toward the
+   window's lit edge, the darks toward its deep navy. */
+:root {
+  --gray-0: #fff;
+  --gray-50: #f7faff;
+  --gray-100: #eef3fb;
+  --gray-150: #e3e9f2;
+  --gray-200: #d5deeb;
+  --gray-300: #bcc8d9;
+  --gray-400: #94a3b8;
+  --gray-500: #6b7a91;
+  --gray-600: #475569;
+  --gray-700: #2b3547;
+  --gray-750: #212a39;
+  --gray-800: #1a2231;
+  --gray-850: #141b28;
+  --gray-900: #101725;
+  --gray-950: #0a0f1a;
+  --white-a4: rgb(255 255 255 / 4%);
+  --white-a6: rgb(255 255 255 / 6%);
+  --white-a8: rgb(255 255 255 / 8%);
+  --white-a10: rgb(255 255 255 / 10%);
+  --white-a12: rgb(255 255 255 / 12%);
+  --white-a14: rgb(255 255 255 / 14%);
+  --white-a18: rgb(255 255 255 / 18%);
+  --white-a24: rgb(255 255 255 / 24%);
+  --white-a40: rgb(255 255 255 / 40%);
+  --white-a50: rgb(255 255 255 / 50%);
+  --white-a70: rgb(255 255 255 / 70%);
+  --white-a85: rgb(255 255 255 / 85%);
+  --black-a6: rgb(0 0 0 / 6%);
+  --black-a10: rgb(0 0 0 / 10%);
+  --black-a14: rgb(0 0 0 / 14%);
+  --black-a18: rgb(0 0 0 / 18%);
+  --black-a22: rgb(0 0 0 / 22%);
+  --black-a28: rgb(0 0 0 / 28%);
+  --black-a35: rgb(0 0 0 / 35%);
+  --black-a45: rgb(0 0 0 / 45%);
+  --ink-a5: rgb(14 24 44 / 5%);
+  --ink-a7: rgb(14 24 44 / 7%);
+  --ink-a9: rgb(14 24 44 / 9%);
+  --ink-a12: rgb(14 24 44 / 12%);
+  --ink-a16: rgb(14 24 44 / 16%);
+  --ink-a22: rgb(14 24 44 / 22%);
+  --ink-a40: rgb(14 24 44 / 40%);
+}
